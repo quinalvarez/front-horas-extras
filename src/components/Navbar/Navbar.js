@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
             <NavContainer>
                 <div>
-                    <img src="https://res.cloudinary.com/depp3dev/image/upload/v1665329506/Logos/infosis/logo-infosis_oepkoh.svg" alt="" />
+                    <img src="" alt="" />
                 </div>
                 <div>
                     <h2>Horas <span>Extras</span></h2>

@@ -1,6 +1,15 @@
 import styled from "styled-components";
 
 export const NavContainer = styled.nav`
+    padding: .9rem;
+    background-color: #333;
+    color: white;
+    height: 40px;
+    display: flex;
+    align-item: center;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
     h2{
         font-weight: 400;
         span{
@@ -12,13 +21,6 @@ export const NavContainer = styled.nav`
         color: white;
         background-color: transparent;
     }
-    padding: .9rem;
-    background-color: #333;
-    color: white;
-    height: 40px;
-    display: flex;
-    align-item: center;
-    justify-content: space-between;
     div {
         display: flex;
         align-items: center;
